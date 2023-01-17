@@ -15,7 +15,7 @@ Using AUDDIT
 
 Additional Tips
 ---------------
-To ensure the algorithm can accurately analyze neuron images, it is important that certain practices are folowed. 
+- To ensure the algorithm can accurately analyze neuron images, it is important that certain practices are folowed. 
 All images in each experimental group should be taken with the same imaging set up and at the same magnification. 
 Try to ensure that the head region of the worm is in the center of the frame. 
 Each image should have only one worm in the frame. Additional worms or objects in the frame will result in inaccurate analysis. 
