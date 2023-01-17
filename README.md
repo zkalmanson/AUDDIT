@@ -15,4 +15,9 @@ Using AUDDIT
 
 Additional Tips
 ---------------
-To ensure the algorithm can accurately analyze neuron images, it is important that certain practices are folowed. All images in each experimental group should be taken with the same imaging set up and at the same magnification. Try to ensure that the head region of the worm is in the center of the frame. Each image should have only one worm in the frame. Additional worms or objects in the frame will result in inaccurate analysis. When looking at projections of z-stack images of the CEP dendrites, it is common for the worm to be oriented such that one or more of the dendrites are overlapping with each other. Any images with overlapping dendrites are not able to be analyzed and should be discarded. Please see the supplemental of the associated paper for examples of usable and unusuable images. 
+To ensure the algorithm can accurately analyze neuron images, it is important that certain practices are folowed. 
+All images in each experimental group should be taken with the same imaging set up and at the same magnification. 
+Try to ensure that the head region of the worm is in the center of the frame. 
+Each image should have only one worm in the frame. Additional worms or objects in the frame will result in inaccurate analysis. 
+When looking at projections of z-stack images of the CEP dendrites, it is common for the worm to be oriented such that one or more of the dendrites are overlapping with each other. Any images with overlapping dendrites are not able to be analyzed and should be discarded. 
+Please see the supplemental of the associated paper for examples of usable and unusuable images. 
