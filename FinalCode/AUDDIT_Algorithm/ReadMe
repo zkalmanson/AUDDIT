@@ -1,0 +1,6 @@
+This folder contains all the necessary scripts and functions to gather CEP dendrite neurodegeneration information from z-stack images.
+The files in this folder are the versions used to collect data in the AUDDIT Manuscript. 
+Newer versions of the algorithm's scripts and functions will be placed in another folder.
+
+AUDDIT_Master is the script used to run the algorithm. 
+
