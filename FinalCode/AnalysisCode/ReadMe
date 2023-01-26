@@ -1,0 +1,5 @@
+This folder contains the algorithms used to analyze the output of the AUDDIT function.
+
+Scripts are named with exposures in the title.
+
+zStackAnalyis combines results from all exposures and normalizes them to their respective controls.
