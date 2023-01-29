@@ -15,7 +15,7 @@ Using AUDDIT
 
 Folder Heirachy Organization 
 ---------------
-The folder heirachy must be set up in a specific manner when using the AUDDIT application. You should organize your data so that there is one main folder, with subfolders inside of it that each contain the images for a specific testing group. So if you have a control folder and experimental folder, place both of these in the main folder, then select the main folder as the file directory to be analyzed. It is important that there are not subfolders inside of the subfolders; any files in each subfolder should only be .tif images. The folder you want to save your results too can be an empty folder located anywehere on your computer drive. 
+The folder heirachy must be set up in a specific manner when using the AUDDIT application. You should organize your data so that there is one main folder, with subfolders inside of it that each contain the images for a specific testing group. So, if you're experiment consists of a control group and an experimental group, the main folder should have have a control subfolder and experimental subfolder inside of it. It is important that there are not subfolders inside of the subfolders; any files in each subfolder should only be .tif images. The folder you want to save your results to can be an empty folder located anywehere on your computer drive. 
 
 Additional Tips
 ---------------
