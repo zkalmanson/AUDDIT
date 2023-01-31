@@ -4,7 +4,7 @@ Version 1.0
 Creators: Andrew Clark and Zach Kalmanson
 of the San Miguel Lab, NCSU College of Chemical and Biomolecular Engineering 
 
-Installation instructions: download the AUDDIT installer .exe and run the application. The GUI is currently Windows only, but Matlab scripts can be run on Windows or Mac OS. No additional files are necessary to run the GUI. 
+Installation instructions: download the AUDDIT_Installer.exe and run the application. The GUI is currently Windows only, but Matlab scripts can be run on Windows or Mac OS. No additional files are necessary to run the GUI. 
 
 Using AUDDIT 
 ---------------
